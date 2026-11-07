@@ -1,12 +1,12 @@
-## two20 software development
+## two20 software development ltd
 
-A collection of software projects and systems built to solve problems, create opportunity, and help
+two20 software development ltd is a collection of software projects and systems built to solve problems, create opportunity, and help
 good businesses and people grow.
 
 ### what we build
 
 - **ios apps**: native SwiftUI applications built for the App Store
-- **websites**: brand-built websites designed to capture your audience and convert
+- **websites**: brand-built websites designed to capture and convert
 - **backend platforms**: customer portals, admin consoles, payment processing, and more
 
 ### systems
@@ -19,4 +19,4 @@ good businesses and people grow.
 
 ### contact
 
-Got an idea? [info@two20development.com](mailto:info@two20development.com) · [two20development.com](https://two20development.com/)
+[info@two20development.com](mailto:info@two20development.com) · [two20development.com](https://two20development.com/)
